@@ -1,0 +1,78 @@
+[02-Feb-2018 09:41:10 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home/dextol/public_html/api/application/controllers/Users.php on line 5
+[02-Feb-2018 09:50:54 UTC] PHP Fatal error:  Call to a member function generateUserID() on null in /home/dextol/public_html/api/application/controllers/Users.php on line 29
+[02-Feb-2018 09:51:37 UTC] PHP Fatal error:  Call to a member function generateUserID() on null in /home/dextol/public_html/api/application/controllers/Users.php on line 29
+[02-Feb-2018 09:52:16 UTC] PHP Fatal error:  Call to a member function generateUserID() on null in /home/dextol/public_html/api/application/controllers/Users.php on line 29
+[02-Feb-2018 09:53:01 UTC] PHP Fatal error:  Call to a member function generateUserId() on null in /home/dextol/public_html/api/application/controllers/Users.php on line 29
+[02-Feb-2018 09:54:11 UTC] PHP Fatal error:  Call to a member function generateUserId() on null in /home/dextol/public_html/api/application/controllers/Users.php on line 21
+[02-Feb-2018 09:54:14 UTC] PHP Fatal error:  Call to a member function generateUserId() on null in /home/dextol/public_html/api/application/controllers/Users.php on line 21
+[02-Feb-2018 09:54:14 UTC] PHP Fatal error:  Call to a member function generateUserId() on null in /home/dextol/public_html/api/application/controllers/Users.php on line 21
+[02-Feb-2018 09:54:14 UTC] PHP Fatal error:  Call to a member function generateUserId() on null in /home/dextol/public_html/api/application/controllers/Users.php on line 21
+[02-Feb-2018 09:54:15 UTC] PHP Fatal error:  Call to a member function generateUserId() on null in /home/dextol/public_html/api/application/controllers/Users.php on line 21
+[02-Feb-2018 09:54:15 UTC] PHP Fatal error:  Call to a member function generateUserId() on null in /home/dextol/public_html/api/application/controllers/Users.php on line 21
+[02-Feb-2018 09:54:15 UTC] PHP Fatal error:  Call to a member function generateUserId() on null in /home/dextol/public_html/api/application/controllers/Users.php on line 21
+[02-Feb-2018 09:54:15 UTC] PHP Fatal error:  Call to a member function generateUserId() on null in /home/dextol/public_html/api/application/controllers/Users.php on line 21
+[02-Feb-2018 09:55:15 UTC] PHP Fatal error:  Call to a member function generateUserId() on null in /home/dextol/public_html/api/application/controllers/Users.php on line 21
+[02-Feb-2018 10:10:57 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home/dextol/public_html/api/application/controllers/Users.php on line 5
+[02-Feb-2018 10:10:59 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home/dextol/public_html/api/application/controllers/Users.php on line 5
+[02-Feb-2018 10:10:59 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home/dextol/public_html/api/application/controllers/Users.php on line 5
+[02-Feb-2018 10:10:59 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home/dextol/public_html/api/application/controllers/Users.php on line 5
+[02-Feb-2018 10:11:00 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home/dextol/public_html/api/application/controllers/Users.php on line 5
+[02-Feb-2018 10:11:00 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home/dextol/public_html/api/application/controllers/Users.php on line 5
+[02-Feb-2018 10:11:00 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home/dextol/public_html/api/application/controllers/Users.php on line 5
+[02-Feb-2018 10:11:00 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home/dextol/public_html/api/application/controllers/Users.php on line 5
+[02-Feb-2018 10:36:07 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[26-Feb-2018 09:31:37 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/dextol/public_html/api/application/controllers/Login.php on line 51
+[01-Mar-2018 09:05:45 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/dextol/public_html/api/application/controllers/User.php on line 176
+[01-Mar-2018 09:07:42 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/dextol/public_html/api/application/controllers/User.php on line 176
+[01-Mar-2018 09:09:05 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/dextol/public_html/api/application/controllers/User.php on line 176
+[02-Mar-2018 09:18:39 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Mar-2018 10:19:45 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Mar-2018 10:19:57 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[03-Mar-2018 10:42:01 UTC] PHP Fatal error:  Call to undefined method CI_Controller::__cosntruct() in /home/dextol/public_html/api/application/controllers/Locations.php on line 11
+[06-Mar-2018 09:46:30 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[06-Mar-2018 09:55:24 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Mar-2018 07:50:38 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[08-Mar-2018 06:36:57 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Mar-2018 17:54:34 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[10-Mar-2018 11:07:02 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Mar-2018 10:20:30 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Mar-2018 10:21:27 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Mar-2018 10:21:52 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Mar-2018 10:38:36 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Mar-2018 07:25:43 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Mar-2018 07:26:10 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[22-Mar-2018 09:25:06 UTC] PHP Fatal error:  Call to undefined method Users::generateOrderId() in /home/dextol/public_html/api/application/controllers/Medicalstores.php on line 67
+[22-Mar-2018 09:37:29 UTC] PHP Fatal error:  Call to undefined method Users::generateOrderId() in /home/dextol/public_html/api/application/controllers/Medicalstores.php on line 67
+[22-Mar-2018 09:41:20 UTC] PHP Fatal error:  Call to undefined method Users::generateOrderId() in /home/dextol/public_html/api/application/controllers/Medicalstores.php on line 67
+[22-Mar-2018 11:43:58 UTC] PHP Fatal error:  Cannot redeclare Users::alert() in /home/dextol/public_html/api/application/models/Users.php on line 79
+[22-Mar-2018 11:44:30 UTC] PHP Fatal error:  Cannot redeclare Users::alert() in /home/dextol/public_html/api/application/models/Users.php on line 79
+[22-Mar-2018 11:44:31 UTC] PHP Fatal error:  Cannot redeclare Users::alert() in /home/dextol/public_html/api/application/models/Users.php on line 79
+[22-Mar-2018 11:44:34 UTC] PHP Fatal error:  Cannot redeclare Users::alert() in /home/dextol/public_html/api/application/models/Users.php on line 79
+[22-Mar-2018 11:44:37 UTC] PHP Fatal error:  Cannot redeclare Users::alert() in /home/dextol/public_html/api/application/models/Users.php on line 79
+[23-Mar-2018 12:00:03 UTC] PHP Fatal error:  Call to undefined method Users::alert() in /home/dextol/public_html/api/application/controllers/Login.php on line 150
+[26-Mar-2018 06:45:03 UTC] PHP Fatal error:  Call to undefined method Users::alert() in /home/dextol/public_html/api/application/controllers/Login.php on line 53
+[05-Apr-2018 05:18:57 UTC] PHP Fatal error:  Call to undefined method Users::alert() in /home/dextol/public_html/api/application/controllers/Login.php on line 53
+[05-Apr-2018 05:18:57 UTC] PHP Fatal error:  Call to undefined method Users::alert() in /home/dextol/public_html/api/application/controllers/Login.php on line 53
+[05-Apr-2018 05:19:32 UTC] PHP Fatal error:  Call to undefined method Users::alert() in /home/dextol/public_html/api/application/controllers/Login.php on line 53
+[05-Apr-2018 08:15:40 UTC] PHP Fatal error:  Call to undefined method Users::alert() in /home/dextol/public_html/api/application/controllers/Login.php on line 53
+[05-Apr-2018 08:27:17 UTC] PHP Fatal error:  Call to undefined method Users::alert() in /home/dextol/public_html/api/application/controllers/Login.php on line 150
+[05-Apr-2018 08:27:40 UTC] PHP Fatal error:  Call to undefined method Users::alert() in /home/dextol/public_html/api/application/controllers/Login.php on line 53
+[11-Apr-2018 11:53:06 UTC] PHP Fatal error:  Call to undefined method Users::alert() in /home/dextol/public_html/api/application/controllers/Login.php on line 150
+[11-Apr-2018 11:53:06 UTC] PHP Fatal error:  Call to undefined method Users::alert() in /home/dextol/public_html/api/application/controllers/Login.php on line 150
+[11-Apr-2018 11:54:11 UTC] PHP Fatal error:  Call to undefined method Users::alert() in /home/dextol/public_html/api/application/controllers/Login.php on line 150
+[11-Apr-2018 11:54:18 UTC] PHP Fatal error:  Call to undefined method Users::alert() in /home/dextol/public_html/api/application/controllers/Login.php on line 150
+[11-Apr-2018 11:54:24 UTC] PHP Fatal error:  Call to undefined method Users::alert() in /home/dextol/public_html/api/application/controllers/Login.php on line 150
+[17-Apr-2018 05:46:29 UTC] PHP Fatal error:  Call to undefined method Users::alert() in /home/dextol/public_html/api/application/controllers/Login.php on line 150
+[17-Apr-2018 05:46:39 UTC] PHP Fatal error:  Call to undefined method Users::alert() in /home/dextol/public_html/api/application/controllers/Login.php on line 150
+[17-Apr-2018 05:50:56 UTC] PHP Fatal error:  Call to undefined method Users::alert() in /home/dextol/public_html/api/application/controllers/Login.php on line 150
+[17-Apr-2018 05:55:01 UTC] PHP Fatal error:  Call to undefined method Users::alert() in /home/dextol/public_html/api/application/controllers/Login.php on line 150
+[23-Apr-2018 05:28:26 UTC] PHP Fatal error:  Call to undefined method Users::alert() in /home/dextol/public_html/api/application/controllers/Login.php on line 150
+[23-Apr-2018 05:28:58 UTC] PHP Fatal error:  Call to undefined method Users::alert() in /home/dextol/public_html/api/application/controllers/Login.php on line 150
+[23-Apr-2018 05:29:30 UTC] PHP Fatal error:  Call to undefined method Users::alert() in /home/dextol/public_html/api/application/controllers/Login.php on line 150
+[23-Apr-2018 05:29:34 UTC] PHP Fatal error:  Call to undefined method Users::alert() in /home/dextol/public_html/api/application/controllers/Login.php on line 150
+[23-Apr-2018 05:29:35 UTC] PHP Fatal error:  Call to undefined method Users::alert() in /home/dextol/public_html/api/application/controllers/Login.php on line 150
+[23-Apr-2018 05:29:35 UTC] PHP Fatal error:  Call to undefined method Users::alert() in /home/dextol/public_html/api/application/controllers/Login.php on line 150
+[23-Apr-2018 05:29:36 UTC] PHP Fatal error:  Call to undefined method Users::alert() in /home/dextol/public_html/api/application/controllers/Login.php on line 150
+[23-Apr-2018 05:29:36 UTC] PHP Fatal error:  Call to undefined method Users::alert() in /home/dextol/public_html/api/application/controllers/Login.php on line 150
+[23-Apr-2018 05:29:37 UTC] PHP Fatal error:  Call to undefined method Users::alert() in /home/dextol/public_html/api/application/controllers/Login.php on line 150
+[23-Apr-2018 05:32:26 UTC] PHP Fatal error:  Call to undefined method Users::alert() in /home/dextol/public_html/api/application/controllers/Login.php on line 150
