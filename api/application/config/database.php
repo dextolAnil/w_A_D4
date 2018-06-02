@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'dextol_dextol',
-	'password' => 'C7)g*+vyCCJ#',
+	'hostname' => 'ebdb.cpwotr7cu8qw.ap-south-1.rds.amazonaws.com',
+	'username' => 'anil',
+	'password' => 'anil$1230',
 	'database' => 'dextol_dextol',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
