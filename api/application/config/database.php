@@ -9,7 +9,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 | For complete instructions please consult the 'Database Connection'
 | page of the User Guide.
-|
 | -------------------------------------------------------------------
 | EXPLANATION OF VARIABLES
 | -------------------------------------------------------------------
