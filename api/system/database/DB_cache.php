@@ -37,7 +37,6 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-//test
 /**
  * Database Cache Class
  *
